@@ -7,13 +7,10 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
-		sc.next();
-		double salario = sc.nextDouble();
-		double salarioTotal = sc.nextDouble();
+		double R = sc.nextDouble();
+		double volume = (4.0/3) * 3.14159 * Math.pow(R, 3);
 		
-		double porcentagem = ((15 * salarioTotal) / 100) + salario;
-		
-		System.out.printf("TOTAL = R$ %.2f%n", porcentagem);
+		System.out.printf("VOLUME = %.3f%n", volume);
 		
 		sc.close();
 	}
