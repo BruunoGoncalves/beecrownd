@@ -28,7 +28,7 @@ public class Main {
 			} else {
 				System.out.println("Aluno reprovado");
 			}
-			System.out.printf("Media final: %.1f", mediaFinal);
+			System.out.printf("Media final: %.1f%n", mediaFinal);
 		}
 		
 		sc.close();
