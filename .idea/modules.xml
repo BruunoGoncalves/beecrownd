@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BEE1067/BEE1067.iml" filepath="$PROJECT_DIR$/BEE1067/BEE1067.iml" />
       <module fileurl="file://$PROJECT_DIR$/BEE1071/BEE1071.iml" filepath="$PROJECT_DIR$/BEE1071/BEE1071.iml" />
       <module fileurl="file://$PROJECT_DIR$/BEE1078/BEE1078.iml" filepath="$PROJECT_DIR$/BEE1078/BEE1078.iml" />
       <module fileurl="file://$PROJECT_DIR$/BEE1114/BEE1114.iml" filepath="$PROJECT_DIR$/BEE1114/BEE1114.iml" />
