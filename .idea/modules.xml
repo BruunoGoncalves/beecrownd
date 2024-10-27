@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/BEE1153/BEE1153.iml" filepath="$PROJECT_DIR$/BEE1153/BEE1153.iml" />
       <module fileurl="file://$PROJECT_DIR$/BEE1157/BEE1157.iml" filepath="$PROJECT_DIR$/BEE1157/BEE1157.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/beecrownd.iml" filepath="$PROJECT_DIR$/.idea/beecrownd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/course.iml" filepath="$PROJECT_DIR$/course/course.iml" />
     </modules>
   </component>
 </project>
